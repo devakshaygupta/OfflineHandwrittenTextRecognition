@@ -1,5 +1,5 @@
 # Offline Handwritten Text Recognition
-![Run MATLAB Script](https://github.com/akshaygupta-dev/OfflineHandwrittenTextRecognition/actions/workflows/main.yml/badge.svg?event=push)
+![Run MATLAB Script](https://github.com/akshaygupta-dev/OfflineHandwrittenTextRecognition/actions/workflows/main.yml/badge.svg?event=push) [![View Handwritten Text Recognition on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/67297-handwritten-text-recognition)
 
 <img src="./MatlabGUI/GUI_In_Matlab.JPG" width="600" height="400">
 
