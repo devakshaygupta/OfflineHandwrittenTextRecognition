@@ -5,7 +5,7 @@
 close all
 clear
 clc
-addpath(genpath('C:\Users\Akshay\Desktop\MatlabCentralUpload\testImages'))
+addpath(genpath('testImages'))
 % This is the pretrained network, which was trained using "nprtool".
 % It was save after training was completed as .mat file.
 % During the training 150 neurons in hidden layer were used.
