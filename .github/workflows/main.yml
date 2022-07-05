@@ -1,4 +1,4 @@
-name: Run MATLAB Script on GitHub-Hosted Runner
+name: MATLAB Script
 on:
   # Triggers the workflow when changes are pushed but only for the "master" branch
   push:
