@@ -1,5 +1,5 @@
 # Offline Handwritten Text Recognition
-
+![Run MATLAB Script](https://github.com/akshaygupta-dev/OfflineHandwrittenTextRecognition/blob/master/.github/workflows/main.yml/badge.svg)
 ![Graphical User Interface](MatlabGUI/GUI_In_Matlab.JPG "GUI")
 
 * To try this program, run the following command in matlab's terminal:
