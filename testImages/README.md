@@ -1,0 +1,1 @@
+# This folder is storing images for test run.

@@ -1,0 +1,3 @@
+# This folder is storing the code for training your own network.
+
+You need to run this code if and only if you are trying to train your own Neural Network. This Code reads the EMNIST dataset and convert the dataset as variables, suitable for "nprtool". It is supposed that you already have download the [EMNIST Dataset](https://www.kaggle.com/crawford/emnist) from Kaggle and keep it in same directory where this code is present. After running this code two variables, named as 'targetsd' and 'inputs' make sure you save them as .mat file
